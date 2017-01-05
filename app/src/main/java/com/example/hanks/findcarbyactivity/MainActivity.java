@@ -1,4 +1,4 @@
-package com.example.hanks.findcar;
+package com.example.hanks.findcarbyactivity;
 
 import android.Manifest;
 import android.content.DialogInterface;
@@ -10,7 +10,6 @@ import android.location.LocationManager;
 import android.net.Uri;
 import android.provider.Settings;
 import android.support.v4.app.ActivityCompat;
-import android.support.v4.widget.SimpleCursorAdapter;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

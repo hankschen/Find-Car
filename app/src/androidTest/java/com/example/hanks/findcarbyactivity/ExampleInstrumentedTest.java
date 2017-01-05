@@ -1,4 +1,4 @@
-package com.example.hanks.findcar;
+package com.example.hanks.findcarbyactivity;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

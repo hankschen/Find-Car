@@ -1,4 +1,4 @@
-package com.example.hanks.findcar;
+package com.example.hanks.findcarbyactivity;
 
 import org.junit.Test;
 
